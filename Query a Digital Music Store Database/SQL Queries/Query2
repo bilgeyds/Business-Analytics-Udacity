@@ -1,1 +1,6 @@
-
+SELECT r.name, COUNT(*) AS "Number of Reps"
+FROM region r
+JOIN sales_reps s
+ON r.id = s.region_id
+GROUP BY 1
+ORDER BY 2;
