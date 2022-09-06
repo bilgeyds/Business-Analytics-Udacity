@@ -1,6 +1,7 @@
 # Business Analytics-Udacity
-Udacity Business Analytics Nanodegree Program Projects. Created using SQL, Excel, Tableau
-[Business Analytics Nanodegree Program Link](https://www.udacity.com/course/business-analytics-nanodegree--nd098).
+[Udacity Business Analytics Nanodegree Program](https://www.udacity.com/course/business-analytics-nanodegree--nd098) Projects.
+
+Technologies used: SQL, Excel, Tableau
 ## Program Curriculum:
 ## **Welcome to the Program** - Project 1: Interpret a Data Visualization
 > In this project, you’ll explore an interactive data dashboard to uncover insights. You’ll write a short report explaining each insight, and how you found the information to reach your conclusion from the dashboard.
@@ -21,9 +22,9 @@ Udacity Business Analytics Nanodegree Program Projects. Created using SQL, Excel
 
 [Link to report](https://github.com/bilgeyds/Business-Analytics-Udacity/blob/main/Project%203:%20Query%20a%20Digital%20Music%20Store%20Database/SQL%20Music%20Store%20Database.pdf)
 
-[Database used](link)
-
 [Queries used](https://github.com/bilgeyds/Business-Analytics-Udacity/blob/main/Project%203:%20Query%20a%20Digital%20Music%20Store%20Database/SQL%20Queries)
+
+[Database used](https://github.com/bilgeyds/Business-Analytics-Udacity/blob/main/Project%203:%20Query%20a%20Digital%20Music%20Store%20Database/chinook-db.zip)
 
 ## **Data Visualization** - Project 4: Build Data Dashboards
 >In this project, you’ll build interactive dashboards with Tableau and use them to discover and communicate insights from data. You’ll use a dataset of flight delays in the US to visualize the quality of airlines and airports, find the best times to fly, and more.
@@ -34,5 +35,5 @@ Udacity Business Analytics Nanodegree Program Projects. Created using SQL, Excel
  
  [Database used](https://github.com/bilgeyds/Business-Analytics-Udacity/blob/main/Project%204:%20Build%20Data%20Dashboards/data-used-flight-delays.zip)
 
-![](https://github.com/kev1nch0e/Udacity-Business-Analytics/blob/master/Certificate%20of%20Completion.JPG)
+![](https://github.com/bilgeyds/Business-Analytics-Udacity/blob/main/Business%20Analytics%20Certificate.pdf)
 
