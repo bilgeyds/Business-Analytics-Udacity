@@ -1,0 +1,7 @@
+SELECT s.id, s.name, COUNT(*) AS "Number of Accounts"
+FROM accounts a
+JOIN sales_reps s
+ON s.id = a.sales_rep_id
+GROUP BY s.id, s.name
+ORDER BY 3 desc
+LIMIT 10;
