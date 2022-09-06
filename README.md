@@ -35,5 +35,5 @@ Technologies used: SQL, Excel, Tableau
  
  [Database used](https://github.com/bilgeyds/Business-Analytics-Udacity/blob/main/Project%204:%20Build%20Data%20Dashboards/data-used-flight-delays.zip)
 
-![](https://github.com/bilgeyds/Business-Analytics-Udacity/blob/main/Business%20Analytics%20Nanodegree%20Certificate.jpg)
+![](https://github.com/bilgeyds/Business-Analytics-Udacity/blob/main/Business%20Analytics%20Certificate.jpg)
 
